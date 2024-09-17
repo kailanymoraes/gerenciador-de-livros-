@@ -1,0 +1,15 @@
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\bin\Debug\net6.0\GerenciadorLivros.exe
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\bin\Debug\net6.0\GerenciadorLivros.deps.json
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\bin\Debug\net6.0\GerenciadorLivros.runtimeconfig.json
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\bin\Debug\net6.0\GerenciadorLivros.dll
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\bin\Debug\net6.0\GerenciadorLivros.pdb
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.csproj.AssemblyReference.cache
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.AssemblyInfoInputs.cache
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.AssemblyInfo.cs
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.csproj.CoreCompileInputs.cache
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.dll
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\refint\GerenciadorLivros.dll
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.pdb
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\GerenciadorLivros.genruntimeconfig.cache
+C:\Users\kailany.smoraes\source\repos\GerenciadorLivros\GerenciadorLivros\obj\Debug\net6.0\ref\GerenciadorLivros.dll
